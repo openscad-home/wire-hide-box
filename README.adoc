@@ -26,6 +26,6 @@ A passive power cable delivering limited power does not need cooling or venting 
 The folded out design makes it possible to have a closed box without any supporting material.
 Supporting material would be difficult to remove anyway.
 
-video::https://www.youtube.com/watch?v=I_tk-uoTgO8[]
+video::I_tk-uoTgO8[youtube]
 
 The video shows a time-lapse of the end of the printing (22sec).
