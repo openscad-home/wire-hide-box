@@ -1,5 +1,7 @@
 = Box hiding Wires
 
+== Purpose
+
 I have three led strips at the bottom of the shelf above my table.
 
 image::IMG_6278.png[]
@@ -10,6 +12,8 @@ It was ugly and I didn't like it.
 I already have enough unordered and clumsy wires on my table.
 
 Instead, I designed a box to hold the cable wrapped up.
+
+== Design
 
 image::image-2023-04-12-10-37-17-537.png[]
 
@@ -28,4 +32,28 @@ Supporting material would be difficult to remove anyway.
 
 video::I_tk-uoTgO8[youtube]
 
+https://www.youtube.com/watch?v=I_tk-uoTgO8
+
+NOTE: GitHub in my browser does not show the video file for some reason.
+
 The video shows a time-lapse of the end of the printing (22sec).
+
+== Result: failure and success
+
+May be not a total failure.
+Functionality wise it works.
+On the other hand, the whole project was to provide some aesthetics.
+The box is ugly.
+And I had a lot of problem with fixing the box with the gluing.
+
+I tried CA glue, hot gun and UV resin.
+CA glue was working to put the box together, but the design does not give enough surface.
+UV resin was a total failure.
+I tried hot glue to fix the box to the bottom of the shelf.
+It fell of in a few hours.
+Finally, I used carpenter double-sided tape.
+Still as you can see on the photo it is not perfect.
+
+I may create an updated version with a better design.
+
+The main learning though that the given dimensions the Creality PLA can be folded and gives enough strength.
