@@ -1,0 +1,31 @@
+= Box hiding Wires
+
+I have three led strips at the bottom of the shelf above my table.
+
+image::IMG_6278.png[]
+
+The strips are connected to each other with a wire, which are way too long for my setup.
+The first installation was just bringing the cable back towards the wall and back, hanging the power lines beneath the shelf.
+It was ugly and I didn't like it.
+I already have enough unordered and clumsy wires on my table.
+
+Instead, I designed a box to hold the cable wrapped up.
+
+image::image-2023-04-12-10-37-17-537.png[]
+
+NOTE: Colors helped me to identify the parts. It is only onscreen in OpenScad.
+
+The box has thin walls, and it can be folded.
+I designed the top to have a hole to save material, but later it became life-saving when I realized that I have to glue the box together before putting the cable in.
+
+The round holes at the side are for the cable in and out.
+
+The small venting holes in the back are to save material and design.
+A passive power cable delivering limited power does not need cooling or venting at all.
+
+The folded out design makes it possible to have a closed box withut any supporting material.
+Supporting material would be difficult to remove anyway.
+
+video::creating.mp4[]
+
+
