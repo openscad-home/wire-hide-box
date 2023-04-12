@@ -23,9 +23,9 @@ The round holes at the side are for the cable in and out.
 The small venting holes in the back are to save material and design.
 A passive power cable delivering limited power does not need cooling or venting at all.
 
-The folded out design makes it possible to have a closed box withut any supporting material.
+The folded out design makes it possible to have a closed box without any supporting material.
 Supporting material would be difficult to remove anyway.
 
-video::creating.mp4[]
+video::https://www.youtube.com/watch?v=I_tk-uoTgO8[]
 
 
